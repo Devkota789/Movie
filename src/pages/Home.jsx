@@ -58,7 +58,7 @@ const Home = () => {
           placeholder="Search for movies..."
         />
         <button type="submit" className="search-btn">
-          Search
+          Searchssas
         </button>
       </form>
 
