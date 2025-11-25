@@ -64,7 +64,7 @@ const Home = () => {
 
       {/* Loading / Error / Movie Grid */}
       {loading ? (
-        <div className="loading">Lodlsmdkslmaddk;aslkd;akdwpeofing...</div>
+        <div className="loading">Lodlsmjljljkjodkslmaddk;aslkd;akdwpeofing...</div>
       ) : error ? (
         <div className="error">{error}</div>
       ) : (
